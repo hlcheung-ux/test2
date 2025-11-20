@@ -1,0 +1,5 @@
+{
+  "name": "墨韻背書 (Ink & Rhyme Memory)",
+  "description": "A classical Chinese poetry memorization game using a pathfinding mechanic on an 8x8 grid.",
+  "requestFramePermissions": []
+}
